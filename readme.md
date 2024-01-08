@@ -21,14 +21,18 @@ Per ora, purtroppo, bisogna abbandonare l'idea
 
 ## Pseudocoding
 
-- Dichiaro variabile per il nome e le assegno il valore richiedendo all'utente
+- Dichiaro constante per il nome e le assegno il valore richiedendo all'utente
 
-- Dichiaro variabile per il cognome e le assegno il valore richiedendo all'utente
+- Dichiaro constante per il cognome e le assegno il valore richiedendo all'utente
 
-- Dichiaro variabile per il colore preferito e le assegno il valore richiedendo all'utente
+- Dichiaro constante per il colore preferito e le assegno il valore richiedendo all'utente
 
-- Dichiaro variabile per il colore preferito e le assegno il valore richiedendo all'utente
+- Dichiaro constante per il colore preferito e le assegno il valore richiedendo all'utente
 
-- Dichiaro variabile per il risultato e le assegno come valore il concatenamento di tutte le variabili, concatenando infine anche la stringa "24"
+- Dichiaro constante per la data e le assegno la data attuale
+
+- Dichiaro constante per l'anno e le assegno le ultime due cifre dell'anno ricavandole dalla data
+
+- Dichiaro constante per il risultato e le assegno come valore il concatenamento di tutte le variabili
 
 - Stampo il risultato tramite testo di un titolo
